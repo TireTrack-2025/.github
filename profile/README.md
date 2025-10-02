@@ -1,5 +1,5 @@
 
-# <img width="60" alt="image" src="https://github.com/user-attachments/assets/f740e3cf-f046-48a5-a84f-ef3e37432bdb" />  「TireTrack」 - Sistema de Gestão de Pneus para Frotas
+<h1>「TireTrack」 - Sistema de Gestão de Pneus para Frotas</h1>
 
 ## <img width="30" alt="image" src="https://github.com/user-attachments/assets/d355577c-3bc5-404b-93f9-64cb9439014a" />  Sobre o Projeto
 
