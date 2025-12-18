@@ -27,7 +27,7 @@ O Sistema de Gestão de Pneus para Frotas é uma aplicação desenvolvida para o
 ## <img width="30" alt="image" src="https://github.com/user-attachments/assets/24d9c658-8d31-46bd-86cb-89b6b5de3865" /> Arquitetura
 <img width="20" alt="image" src="https://github.com/user-attachments/assets/0c255c1a-ac87-404a-81bb-c7af6fc09537" />   Frontend: HTML, CSS, Javascript, Typescript, Vite, Tailwindcss, Shadcn
 
-<img width="20" alt="image" src="https://github.com/user-attachments/assets/d24542dc-d470-4480-b4dd-78aea3e60980" />   Backend: Python com Flask
+<img width="20" alt="image" src="https://github.com/user-attachments/assets/d24542dc-d470-4480-b4dd-78aea3e60980" />   Backend: Python com Django
 
 <img width="20" alt="image" src="https://github.com/user-attachments/assets/35997220-e9b7-4413-85e5-4283ffd55e90" />   Banco de Dados: MySQL
 
